@@ -49,5 +49,5 @@ else
     time=$1
 fi
 
-deletecreate /data/v-applogs $time
-deletecreate /data/w-applogs $time
+deletecreate /opt/applogs $time
+deletecreate /opt/applogs $time
