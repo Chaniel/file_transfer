@@ -1,0 +1,1 @@
+rsync --progress --log-file=transfer.log -ave 'ssh -p 22' /data/* user@host:/data/
